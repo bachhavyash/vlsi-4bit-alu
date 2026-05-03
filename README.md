@@ -62,7 +62,7 @@ run -all
 - Add both files as sources → Set `alu_4bit_tb` as top for simulation → Run Behavioral Simulation
 
 ## Author
-**Yashganesh Bachhav**  
+**Yash Ganesh Bachhav**  
 B.E. Electronics & Telecommunication Engineering  
 LGNSCOE, Nashik | SPPU  
 VLSI Internship — CODTECH IT Solutions (Jan–Feb 2025)
