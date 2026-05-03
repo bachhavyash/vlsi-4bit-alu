@@ -1,6 +1,6 @@
 // ============================================================
 // Project   : 4-bit Arithmetic Logic Unit (ALU)
-// Author    : Yashganesh Bachhav
+// Author    : Yash Ganesh Bachhav
 // College   : LGNSCOE, Nashik (SPPU)
 // Domain    : VLSI Design | Verilog HDL
 // Tool      : EDA Playground / ModelSim / Xilinx Vivado
