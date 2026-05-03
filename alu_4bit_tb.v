@@ -19,7 +19,7 @@ module alu_4bit_tb;
 
     initial begin
         $display("==============================================");
-        $display(" 4-bit ALU Simulation - Yashganesh Bachhav");
+        $display(" 4-bit ALU Simulation ");
         $display("==============================================");
         $display("  A    |  B   | SEL | Result | Zero | Carry");
         $display("-------|------|-----|--------|------|------");
