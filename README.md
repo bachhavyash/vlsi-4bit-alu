@@ -63,6 +63,6 @@ run -all
 
 ## Author
 **Yash Ganesh Bachhav**  
-B.E. Electronics & Telecommunication Engineering  
+TE Electronics & Telecommunication Engineering  
 LGNSCOE, Nashik | SPPU  
 VLSI Internship — CODTECH IT Solutions (Jan–Feb 2025)
